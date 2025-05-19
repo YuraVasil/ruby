@@ -1,0 +1,19 @@
+---
+Гараж:
+  :date: '2025-09-10'
+  :participants:
+  - Саня
+  - Богдан
+  :locations:
+  - Київ
+  - Одеса
+  :description: Ремонт Афто
+'124':
+  :date: '1111'
+  :participants:
+  - Саня
+  - Богдан
+  :locations:
+  - Київ
+  - Одеса
+  :description: Ремонт Афто
